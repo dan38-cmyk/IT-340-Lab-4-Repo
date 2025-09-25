@@ -1,1 +1,13 @@
-Disk usage log entry
+Disk Report - Thu Sep 25 12:26:10 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  338M   1% /run
+/dev/nvme0n1p2   19G   11G  7.2G  60% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+efivarfs        256K   32K  225K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   24K  1.7G   1% /tmp
+tmpfs           339M  4.1M  335M   2% /run/user/1000
+/dev/sr0        3.6G  3.6G     0 100% /media/daniel-nizami/Ubuntu 25.04 arm64
